@@ -1,0 +1,15 @@
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.exe
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.deps.json
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.runtimeconfig.json
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.dll
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\ref\SzyfrCezara.dll
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.pdb
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.csproj.AssemblyReference.cache
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.AssemblyInfoInputs.cache
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.AssemblyInfo.cs
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.csproj.CoreCompileInputs.cache
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.dll
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\ref\SzyfrCezara.dll
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.pdb
+C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.genruntimeconfig.cache
