@@ -13,3 +13,18 @@ C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.dll
 C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\ref\SzyfrCezara.dll
 C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.pdb
 C:\Users\tymru\OneDrive\Pulpit\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.genruntimeconfig.cache
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.exe
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.deps.json
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.runtimeconfig.json
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.dll
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\ref\SzyfrCezara.dll
+G:\ZAWADZKI JS C#\SzyfrCezara\bin\Debug\net6.0\SzyfrCezara.pdb
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.csproj.AssemblyReference.cache
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.GeneratedMSBuildEditorConfig.editorconfig
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.AssemblyInfoInputs.cache
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.AssemblyInfo.cs
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.csproj.CoreCompileInputs.cache
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.dll
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\ref\SzyfrCezara.dll
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.pdb
+G:\ZAWADZKI JS C#\SzyfrCezara\obj\Debug\net6.0\SzyfrCezara.genruntimeconfig.cache
